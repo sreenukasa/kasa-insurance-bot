@@ -2,7 +2,7 @@
   "services": {
     "cloudantNoSQLDB": [
       {
-        "name": "insurance-bot-db",
+        "name": "insurance-bot-d",
         "label": "cloudantNoSQLDB",
         "plan": "Lite",
         "credentials": {
